@@ -54,7 +54,7 @@ export const skillsSection: SkillsSectionType = {
           '⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js'
         ),
         emoji('⚡ Building responsive static websites using Next.js'),
-        emoji('⚡ Building RESTful APIs in Node js & Node js REST Framework'),
+        emoji('⚡ Building RESTful APIs using Express Js'),
         emoji('⚡ Building Full-stack website using MERN stack'),
       ],
       softwareSkills: [
