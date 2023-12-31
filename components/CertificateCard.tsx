@@ -33,7 +33,7 @@ const CertificateCard = ({
                 marginRight: 'auto',
                 width: '28rem',
                 height: '18rem',
-                borderRadius: '5%',
+                borderRadius: '0%',
               }}
             />
             <CardTitle tag="h4" className="mb-2 mt-4">
